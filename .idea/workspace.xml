@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5356c8-5f6f-40b9-8e47-ba41c66c9c09" name="Default Changelist" comment="backend" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="omniStack" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/aulas" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZX4gRaOH3F92Me86FRrFpDlymS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;repository" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/be-the-hero-master" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/aulas/backend/src" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5356c8-5f6f-40b9-8e47-ba41c66c9c09" name="Default Changelist" comment="" />
+      <created>1584972215996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584972215996</updated>
+      <workItem from="1584972217141" duration="3834000" />
+      <workItem from="1585051271827" duration="13796000" />
+      <workItem from="1585074709897" duration="10255000" />
+      <workItem from="1585085348358" duration="1538000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="backend" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="343" y="125" width="800" height="684" key="#Notifications" timestamp="1585085623066">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="343" y="125" width="800" height="684" key="#Notifications/56.27.1384.873@56.27.1384.873" timestamp="1585085623066" />
+    <state x="206" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585085167434">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="206" y="121" key="#com.intellij.execution.impl.EditConfigurationsDialog/56.27.1384.873@56.27.1384.873" timestamp="1585085167434" />
+    <state x="786" y="268" width="605" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585062201607">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="786" y="268" width="605" height="397" key="#com.intellij.fileTypes.FileTypeChooser/56.27.1384.873@56.27.1384.873" timestamp="1585062201607" />
+    <state x="313" y="40" width="860" height="853" key="CommitChangelistDialog2" timestamp="1585085835146">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="313" y="40" width="860" height="853" key="CommitChangelistDialog2/56.27.1384.873@56.27.1384.873" timestamp="1585085835146" />
+    <state x="524" y="198" width="447" height="498" key="FileChooserDialogImpl" timestamp="1585086886288">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="524" y="198" width="447" height="498" key="FileChooserDialogImpl/56.27.1384.873@56.27.1384.873" timestamp="1585086886288" />
+    <state x="599" y="358" width="287" height="217" key="Github.ShareDialog" timestamp="1585084925255">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="599" y="358" width="287" height="217" key="Github.ShareDialog/56.27.1384.873@56.27.1384.873" timestamp="1585084925255" />
+    <state x="515" y="152" width="455" height="630" key="Github.UntrackedFilesDialog" timestamp="1585085050182">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="515" y="152" width="455" height="630" key="Github.UntrackedFilesDialog/56.27.1384.873@56.27.1384.873" timestamp="1585085050182" />
+    <state x="551" y="160" width="374" height="621" key="RollbackChangesDialog" timestamp="1585085538130">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="551" y="160" width="374" height="621" key="RollbackChangesDialog/56.27.1384.873@56.27.1384.873" timestamp="1585085538130" />
+    <state x="571" y="184" width="333" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1585085764354">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="571" y="184" width="333" height="573" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/56.27.1384.873@56.27.1384.873" timestamp="1585085764354" />
+    <state x="516" y="383" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585085615448">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="516" y="383" width="464" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/56.27.1384.873@56.27.1384.873" timestamp="1585085615448" />
+    <state x="758" y="106" width="672" height="676" key="search.everywhere.popup" timestamp="1585085192110">
+      <screen x="56" y="27" width="1384" height="873" />
+    </state>
+    <state x="758" y="106" width="672" height="676" key="search.everywhere.popup/56.27.1384.873@56.27.1384.873" timestamp="1585085192110" />
+  </component>
+</project>
