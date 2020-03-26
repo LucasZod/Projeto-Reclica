@@ -8,6 +8,7 @@ const routes = express.Router();
 
 routes.get("/ongs", OngController.index);
 routes.post("/ongs", OngController.store);
+routes.delete('/ongs/:id', OngController.delete);
 
 routes.post("/session", SessionController.store);
 
